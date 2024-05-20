@@ -40,4 +40,4 @@ Tic Tac Toe is a classic game built using React. It allows players to enjoy the 
     npm start
     ```
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to start playing Tic Tac Toe.
+5. Open your browser and visit [http://localhost:5173](http://localhost:5173) to start playing Tic Tac Toe.
